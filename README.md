@@ -17,3 +17,6 @@ Make a robot that has the following features:
 6. Consider using FreeRTOS for ESP platform. (will be badass)
 7. Use Arduino framework + PlatformIO extension in VSCode.
 8. For finding the "shortest path in a maze", consider using A* search...?! (Mode D --- depends on whether the maze is static with multiple paths \[use Dijkstra or sth\] OR variable with one true path \[use A* search\])
+
+## Issues/Questions
+1. Is the maze required to be solved 2D (black lines on the ground) or 3D (with walls)?
